@@ -82,20 +82,23 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmppiyas&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=pmppiyas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmppiyas&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pmppiyas&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmppiyas&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Languages" />
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmppiyas&theme=react-dark&hide_border=true" height="250" alt="GitHub Activity Graph" />
+
 </div>
+
 
 ---
 
@@ -122,6 +125,9 @@
 </div>
 
 
+### 🌱 Thanks for visiting, Happy Coding 🚀
+
 ---
+
 
 
