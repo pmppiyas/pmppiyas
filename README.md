@@ -13,6 +13,14 @@
 
 ---
 
+### 🚀 Current Activities  
+🔹 Exploring **Next.js** and advanced backend development  
+🔹 Working on a **tourism website** with dynamic content  
+🔹 Contributing to **open-source projects** and improving my problem-solving skills  
+🔹 Learning **DevOps tools** like Docker and CI/CD for deployment  
+
+---
+
 ### 🛠 Tech Stack  
 
 #### **🌐 Frontend**  
