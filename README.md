@@ -83,9 +83,19 @@
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmppiyas&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmppiyas&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=pmppiyas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ### 🌍 Connect with Me  
