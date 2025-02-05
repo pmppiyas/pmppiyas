@@ -90,12 +90,13 @@
 
 ### 🌍 Connect with Me  
 <div align="center">
-    <a href="mailto:princemahmudpiyas@gmail.com">
+ <a href="mailto:princemahmudpiyas@gmail.com">
   <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   </a>
-    <img width="25" />
+  <img width="25" />
   <a href="https://www.linkedin.com/in/pmppiyas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" 
+   alt="linkedin logo"  />
   </a>
      <img width="25" />
   <a href="https://x.com/pmppiyas" target="_blank">
