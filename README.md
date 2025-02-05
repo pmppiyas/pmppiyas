@@ -90,7 +90,7 @@
 
 ### 🌍 Connect with Me  
 <div align="center">
- <a href="mailto:princemahmudpiyas@gmail.com">
+ <a href="mailto:princemahmudpiyas@gmail.com"  target="_blank">
   <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   </a>
   <img width="25" />
