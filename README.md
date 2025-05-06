@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Prince Mahmud Piyas</h1>
 
 <p align="center">
-  <img height="110px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75029&center=true&vCenter=true&multiline=true&width=600&height=50&lines=MERN+Stack+Developer+%7C+Passionate+Problem+Solver;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
+  <img height="110px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75029&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Full+Stack+Developer+%7C+Passionate+Problem+Solver;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
 </p>
 
 ---
