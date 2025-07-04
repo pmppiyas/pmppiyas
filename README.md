@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Prince Mahmud Piyas</h1>
 
 <p align="center">
-  <img height="110px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75029&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Full+Stack+Developer+%7C+Passionate+Problem+Solver;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
+  <img height="110px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F75029&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer+%7C+Passionate+Problem+Solver;Building+Scalable+and+Efficient+Web+Applications" alt="Typing SVG">
 </p>
 
 ---
 
 ### 💻 About Me  
-🔹 **MERN-Stack Developer** skilled in **React, Next.js, Node.js, Express, and MongoDB**  
+🔹 **Full-Stack Developer** skilled in **Typescript, React, Next.js, Node.js, Express, and MongoDB, Mongoose, PostgreSQL**  
 🔹 Confident, flexible, and productive – focused on clean code & performance  
 🔹 Passionate about learning, collaboration, and building innovative applications 🚀  
 
@@ -98,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmppiyas&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Languages" />
   
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmppiyas&theme=react-dark&hide_border=true" height="250" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmppiyas&theme=react-dark&hide_border=true" height="200" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -108,22 +108,22 @@
 ### 🌍 Connect with Me  
 <div align="center">
   <a href="mailto:princemahmudpiyas@gmail.com">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
   </a>
   <img width="25" />
   
   <a href="https://www.linkedin.com/in/pmppiyas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo" />
   </a>
   <img width="25" />
   
   <a href="https://x.com/pmppiyas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="40" alt="twitter logo" />
   </a>
   <img width="25" />
 
   <a href="https://www.facebook.com/princempiyas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40" alt="facebook logo" />
   </a>
 </div>
 
