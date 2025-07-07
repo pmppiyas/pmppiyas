@@ -61,17 +61,9 @@
 <div align="center" style="max-width: 100%; overflow-x: auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" width="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" width="40" alt="blender logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
   <img width="12" />
@@ -86,19 +78,15 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  
-  <!-- GitHub Streak -->
-<!--<img src="https://github-readme-streak-stats.herokuapp.com?user=pmppiyas&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
 
-  
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=pmppiyas&show_icons=true&theme=tokyonight&hide_border=true" height="200" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmppiyas&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Languages" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pmppiyas&theme=react-dark&hide_border=true" height="200" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pmppiyas&show_icons=true&theme=tokyonight&hide_border=true" height="200" width="350" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmppiyas&layout=compact&theme=tokyonight&hide_border=true" height="200" width="350" alt="Top Languages" />
+
+  <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pmppiyas&theme=tokyonight&hide_border=true" height="200" width="350" alt="GitHub Streak" />
 
 </div>
 
