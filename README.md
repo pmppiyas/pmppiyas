@@ -61,14 +61,19 @@
 
 #### **🔧 Tools & Platforms**  
 <div align="center" style="max-width: 100%; overflow-x: auto;">
-  <img src="https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white&style=for-the-badge" height="40" alt="oauth logo" />
+  <img src="https://img.shields.io/badge/OAuth-FF6F00?logo=oauth&logoColor=white&style=for-the-badge" height="40" alt="oauth logo" />
   <img width="15" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
-  <img width="15" />
+ <img src="https://img.shields.io/badge/JWT-32329D?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
+<img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="40" width="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Multer-FF6F00?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="multer logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge" height="40" alt="cloudinary logo" />
 </div>
+
 
 
 
