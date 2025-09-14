@@ -48,27 +48,29 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="express logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="mongoose logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="mongoose logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" width="40" alt="prisma logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo"  />
 </div>
+
 
 #### **🔧 Tools & Platforms**  
 <div align="center" style="max-width: 100%; overflow-x: auto;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/OAuth-000000?logo=oauth&logoColor=white&style=for-the-badge" height="40" alt="oauth logo" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" width="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" width="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  height="40" width="40" alt="aws logo" />
 </div>
+
+
 
 ###
 
