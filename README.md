@@ -7,7 +7,7 @@
 ---
 
 ### 💻 About Me  
-🔹 **Full-Stack Developer** skilled in **Typescript, React, Next.js, Node.js, Express, and MongoDB, Mongoose, PostgreSQL**  
+🔹 **Full-Stack Developer** skilled in **Typescript, React, Next.js, Nest.js, Node.js, Express, and MongoDB, Mongoose, PostgreSQL, Prisma**  
 🔹 Confident, flexible, and productive – focused on clean code & performance  
 🔹 Passionate about learning, collaboration, and building innovative applications 🚀  
 
@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" width="40" alt="nestjs logo"/>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="mongoose logo"  />
   <img width="15" />
